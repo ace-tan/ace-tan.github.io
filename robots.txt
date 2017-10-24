@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /private
+
+sitemap: https://ace-tan.github.io/sitemap.xml
